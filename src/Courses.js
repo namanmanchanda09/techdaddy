@@ -1,6 +1,6 @@
 import React from 'react';
 import './Courses.css'
-import 'tachyons';
+// import 'tachyons';
 import python from './python.png'
 
 class Courses extends React.Component{
